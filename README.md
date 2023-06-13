@@ -3,7 +3,7 @@
 On this page, you can find links to much of the documentation for the products we use. This will begin as a programming reference, but the hope is that it will grow over time.
 Here are some quick links to sections of this page...
 
-![](/qrcode_oscatdocs.readthedocs.io.png)
+![QR](/images/qrcode_oscatdocs.readthedocs.io.png)
 
 ## Index
 
