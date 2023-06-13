@@ -10,6 +10,7 @@ Here are some quick links to sections of this page...
 - [Oscats Resources Page](#oscats-resources-page)
   - [Index](#index)
   - [Programming Resources](#programming-resources)
+  - [Programming an LED Matrix](#LED Matrix)
   - [FRC Robot](#frc-robot)
     - [VMXPi](#vmxpi)
     - [Vendor Libraries](#vendor-libraries)
@@ -18,6 +19,12 @@ Here are some quick links to sections of this page...
   - [Flow Charts](#flow-charts)
 
 ## Programming Resources
+
+## LED Matrix
+I basically found two tutorials that use the same library.
+-[LED Matrix as Second Screen](https://learn.adafruit.com/raspberry-pi-led-matrix-display)
+This could work well with [Py Game](https://www.pygame.org/wiki/GettingStarted)
+-[LED Matrix where you draw and refresh manually](https://learn.adafruit.com/adafruit-rgb-matrix-bonnet-for-raspberry-pi)
 
 - [WPILib](https://docs.wpilib.org/en/stable/) has all the resources we need to learn how to program a robot. We will be utilizing this resource frequently.
 
