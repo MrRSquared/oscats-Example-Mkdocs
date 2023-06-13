@@ -22,10 +22,14 @@ Here are some quick links to sections of this page...
 
 ## LED Matrix
 I basically found two tutorials that use the same library.
+
 -[LED Matrix as Second Screen](https://learn.adafruit.com/raspberry-pi-led-matrix-display)
+
 This could work well with [Py Game](https://www.pygame.org/wiki/GettingStarted)
+
 -[LED Matrix where you draw and refresh manually](https://learn.adafruit.com/adafruit-rgb-matrix-bonnet-for-raspberry-pi)
 
+## Programming a Robot
 - [WPILib](https://docs.wpilib.org/en/stable/) has all the resources we need to learn how to program a robot. We will be utilizing this resource frequently.
 
 This is outdated, but we are keeping it here as it is a bit clearer and less intimidating in some places than Docs.wpilib.org--- [Programming Done Right](https://frc-pdr.readthedocs.io/en/latest/index.html) This is a helpful resource with examples from all three main languages. It has tutorial websites as well as how to program a robot to win competitions. Some of the code may be a bit outdated, but is still a premium resource.
