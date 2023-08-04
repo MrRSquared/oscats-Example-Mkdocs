@@ -234,7 +234,9 @@ if __name__ == "__main__":
 There is a copy of this on my [Github](https://github.com/MrRSquared/RomiPythonIO) as well.
 
 Next Steps...
+
 - Create an autonomous routine that drives forward and stops at a specific distance (we need to add this to our current competition bot).
 - Learn to use the [Command Framework](https://docs.wpilib.org/en/stable/docs/software/commandbased/index.html)
      -[This is the Python Specific API](https://robotpy.readthedocs.io/projects/commands-v2/en/latest/api.html)
+- RobotPy has a complete example on their [Commands Git](https://github.com/robotpy/examples/tree/main/commands-v2/romi)
 There are a few directions we can go from here. We will discuss them and then find some more resources.
