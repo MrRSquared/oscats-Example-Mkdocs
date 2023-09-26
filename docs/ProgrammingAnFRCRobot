@@ -3,9 +3,9 @@ Programming an FRC Robot
 There are many resources you need for programming a robot.
 Most of the setup is covered by WPILib.
 
-One of the best tutorials is the [0-autonomous](https://www.youtube.com/channel/UCmJAoN-yI6AJDv7JJ3372yg) tutorial that Team____________ created.
+One of the best tutorials is the [0-autonomous](https://www.youtube.com/channel/UCmJAoN-yI6AJDv7JJ3372yg) tutorial that Team 6814 created.
 
-In order to use any third party libraries, you need to set them up in VSCode.
+In order to use any third-party libraries, you need to set them up in VSCode.
 
 When following the tutorial, there will be some differences. We use Rev hardware instead of CTRE. We are also using the internal encoders on the Neos rather than external.
 
