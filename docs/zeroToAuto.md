@@ -1,3 +1,3 @@
 test.
 
-![](..images/qrcode_oscatdocs.readthedocs.io.png)
+![](../images/qrcode_oscatdocs.readthedocs.io.png)
