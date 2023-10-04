@@ -6,6 +6,7 @@ We are going to try to use this as a way to organize many team resources. We wil
 
 Scan this code to get this site on your device.
 
-![](images/qrcode.png)
+
+ ![](images/qrcode.png)
 
 
